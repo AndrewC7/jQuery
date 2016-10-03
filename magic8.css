@@ -1,0 +1,26 @@
+#body {
+  background-image: url("https://www.raspberrypi.org/learning/resources/magic-8-ball/cover.png");
+  text-align: center;
+  color: white;
+}
+
+#heading {
+  text-align: center;
+  color: white;
+  font-size: 70px;
+  font-family: fantasy;
+}
+
+#submit {
+  color: green;
+  background-color: cyan;
+}
+
+#question {
+  background-color: red;
+}
+
+#answer {
+  font-size: 50px;
+  background-color: #adff00;
+}
